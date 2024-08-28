@@ -9,8 +9,8 @@ function trend(name) {
 export default (config, { tab }) => {
   config.title = "k6 dashboard"
 
-  tab("Overview", ({ tab, section }) => {
-    tab.summary = `This chapter provides an overview of the most important metrics of the test run. Graphs plot the value of metrics over time.`
+  tab("Overview Y", ({ tab, section }) => {
+    tab.summary = `This Y chapter provides an overview of the most important metrics of the test run. Graphs plot the value of metrics over time.`
 
     // stat section
     section(({ panel }) => {
