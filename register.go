@@ -8,7 +8,7 @@
 package dashboard
 
 import (
-	"github.com/grafana/xk6-dashboard/dashboard"
+	"github.com/arifulislamat/xk6-dashboard/dashboard"
 	"go.k6.io/k6/output"
 )
 

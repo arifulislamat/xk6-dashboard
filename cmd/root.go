@@ -9,7 +9,7 @@ import (
 	"context"
 	"strings"
 
-	"github.com/grafana/xk6-dashboard/dashboard"
+	"github.com/arifulislamat/xk6-dashboard/dashboard"
 	"github.com/spf13/cobra"
 	"go.k6.io/k6/cmd/state"
 )

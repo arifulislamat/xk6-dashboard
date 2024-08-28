@@ -9,7 +9,7 @@ package dashboard
 import (
 	"testing"
 
-	"github.com/grafana/xk6-dashboard/dashboard"
+	"github.com/arifulislamat/xk6-dashboard/dashboard"
 	"github.com/stretchr/testify/assert"
 	"go.k6.io/k6/output"
 )
